@@ -1,0 +1,3 @@
+# Programação 1
+
+repositório da disciplina de programação 1 do curso de Ciência da Computação da UFPR. no repositório tem os exercícios feitos em aulas, trabalhos entre outras coisa...
